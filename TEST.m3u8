@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1,CH 11
+#EXTVLCOPT:network-caching=1000
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/source1_4k/chunklist.m3u8
+#EXTINF:-1,CH 12
+#EXTVLCOPT:network-caching=1000
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1728680949~acl=%2f*~data=hdntl~hmac=aad3f84a256d3425faac8fd9d95efdac3c4c38b3edd98693699956f26dca75fd/profileManifest.m3u8?_uid=0f07a185-4300-4f74-9cae-7dbae7ec34a0&rK=a3&_did=f6ecb754-738e-44d7-8867-1346030fa342
+#EXTINF:-1,CH 13
+#EXTVLCOPT:network-caching=1000
+https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/0/profileManifest.m3u8?_uid=6dc75be5-5e92-4494-9f00-5804566c997a&rK=a3&_did=2a4e040d-cb0e-40c9-87f7-47a5b95e2d70
+#EXTINF:-1,CH 14
+#EXTVLCOPT:network-caching=1000
+https://ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/0/streamPlaylist.m3u8
+#EXTINF:-1,MAKAN
+#EXTVLCOPT:network-caching=1000
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
+#EXTINF:-1,halaTV
+https://live2.panet.co.il/edge_abr/halaTV/edge_abr/halaTV_1080p/chunks.m3u8?nimblesessionid=610836672
+#EXTINF:-1,Al Jazeera
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1,Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1,Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1,TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Nat Geo Abu Dhabi
+https://m3u.iranvids.com/n-g-arabic/output.m3u8
+#EXTINF:-1,MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1,MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1,MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1,MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1,MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
