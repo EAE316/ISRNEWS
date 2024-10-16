@@ -19,7 +19,8 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/hdntl=exp=
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8
 #EXTINF:-1,Al Jazeera
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:40,Al Arabiya
+#EXTINF:40,Alarabiya
+#EXTVLCOPT:network-caching=1000
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1,Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
