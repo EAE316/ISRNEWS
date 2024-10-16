@@ -23,7 +23,8 @@ https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1,TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,Nat Geo Abu Dhabi
+#EXTINF:100,Nat Geo Abu Dhabi
+#EXTVLCOPT:network-caching=1000
 https://m3u.iranvids.com/n-g-arabic/output.m3u8
 #EXTINF:-1,MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
